@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -n 1 < aicta << cp aicta
+tail -n 1 < cp aicta >> aicta
